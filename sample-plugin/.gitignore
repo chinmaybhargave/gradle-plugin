@@ -1,5 +1,7 @@
 build/
 .gradle
+.gradle/buildOutputCleanup/
+
 .metadata
 bin/
 tmp/
