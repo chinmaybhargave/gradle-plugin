@@ -1,4 +1,4 @@
-# gradle-plugin
+# gradle-plugin-java-implementation
 Gradle Plugin Implementation in Java
 
 1. Create a Gradle Task and Plugin
