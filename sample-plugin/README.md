@@ -1,8 +1,8 @@
-# gradle-plugin-java-implementation
 
-=================================================================================
 
-- 'sample-plugin' project consists of Gradle Plugin Implementation in Java
+## 'sample-plugin' 
+
+Gradle Plugin Implementation in Java
 
 -- Contents <br/>
 1. Gradle Task and Plugin implementation
@@ -14,5 +14,3 @@
 -- Issues faced <br/>
 1. For some reasone, in test-gradle.gradle file [ apply plugin: 'example-plugin' ] didn't work but
 [ plugins {	id 'example-plugin' } ] worked. 
-
-=================================================================================
