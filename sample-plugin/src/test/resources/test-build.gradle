@@ -1,0 +1,7 @@
+plugins{
+	id 'example-plugin'
+} 
+
+sampleTask{
+	argument = 'some-value'
+}
