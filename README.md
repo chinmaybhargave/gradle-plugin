@@ -1,6 +1,6 @@
 # gradle-plugin-java-implementation
 
-================================================================================================================
+=================================================================================
 
 - 'sample-plugin' project consists of Gradle Plugin Implementation in Java
 
@@ -15,4 +15,4 @@
 1. For some reasone, in test-gradle.gradle file [ apply plugin: 'example-plugin' ] didn't work but
 [ plugins {	id 'example-plugin' } ] worked. 
 
-================================================================================================================
+=================================================================================
